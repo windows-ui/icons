@@ -11,7 +11,8 @@ SVG icon library for windows-ui.
   <tr>
     <td>Advertising</td>
     <td>
-	<img width="34" height="34" src="./svg/light/icons10-advertising.svg#gh-dark-mode-only" src="./svg/light/icons10-advertising.svg#gh-light-mode-only" />
+	<img width="34" height="34" src="./svg/light/icons10-advertising.svg#gh-dark-mode-only" />
+	<img width="34" height="34" src="./svg/dark/icons10-advertising.svg#gh-light-mode-only" />
     </td>
     <td><code>icons10-advertising</code></td>
   </tr>
