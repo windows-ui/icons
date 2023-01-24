@@ -130,6 +130,281 @@ SVG icon library for windows-ui.
     <td><code>icons10-angle-right</code></td>
   </tr>
 	<tr>
+    <td>icons10-angle-up</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-angle-up.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-angle-up.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-angle-up</code></td>
+  </tr>
+	<tr>
+    <td>icons10-archive</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-archive.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-archive.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-archive</code></td>
+  </tr>
+	<tr>
+    <td>icons10-area-chart</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-area-chart.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-area-chart.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-area-chart</code></td>
+  </tr>
+	<tr>
+    <td>icons10-arrow-down</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-arrow-down.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-arrow-down.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-arrow-down</code></td>
+  </tr>
+	<tr>
+    <td>icons10-arrow-left</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-arrow-left.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-arrow-left.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-arrow-left</code></td>
+  </tr>
+	<tr>
+    <td>icons10-arrow-right</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-arrow-right.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-arrow-right.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-arrow-right</code></td>
+  </tr>
+	<tr>
+    <td>icons10-arrow-up</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-arrow-up.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-arrow-up.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-arrow-up</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
+    <td>Advertising</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="svg/light/icons10-advertising.svg">
+        <source media="(prefers-color-scheme: light)" srcset="svg/dark/icons10-advertising.svg">
+        <img width="34" height="34">
+      </picture>
+    </td>
+    <td><code>icons10-advertising</code></td>
+  </tr>
+	<tr>
     <td>Advertising</td>
     <td>
       <picture>
