@@ -1,4 +1,8 @@
 # icons
 SVG icon library for windows-ui.
 
-<img src="svg/icons10-advertising.svg" width="50" height="50" fill="#fff">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="svg/icons10-advertising.svg">
+  <source media="(prefers-color-scheme: light)" srcset="svg/icons10-advertising.svg">
+  <img width="50" height="50">
+</picture>
