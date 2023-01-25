@@ -1,6 +1,24 @@
 # icons
 SVG icon library for windows-ui.
 
+
+<table>
+  <tr>
+    <th>
+    	<img width="40" height="40" src="svg/light/icons10-list.svg#gh-dark-mode-only">
+    	<img width="40" height="40" src="svg/dark/icons10-list.svg#gh-light-mode-only"></th>
+    <th>
+			<img width="40" height="40" src="svg/light/icons10-grid-2.svg#gh-dark-mode-only">
+			<img width="40" height="40" src="svg/dark/icons10-grid-2.svg#gh-light-mode-only">
+		</th>
+  </tr>
+	 <tr>
+    <th><a href="./h.html">VIEW LIST LAYOUT</a><br>▲</th>
+    <th><a href="./h.html">VIEW GRID LAYOUT</a><br>=</th>
+  </tr>
+</table>
+
+
 <table>
   <tr>
     <th>Name</th>
