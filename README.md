@@ -13,7 +13,7 @@ SVG icon library for windows-ui.
 		</th>
   </tr>
 	 <tr>
-    <th><a href="./h.html">VIEW LIST LAYOUT</a><br>▲</th>
+    <th>VIEW LIST LAYOUT<br>▲</th>
     <th><a href="./h.html">VIEW GRID LAYOUT</a><br>=</th>
   </tr>
 </table>
