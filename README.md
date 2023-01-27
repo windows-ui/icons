@@ -214,9 +214,9 @@ SVG icon library for windows-ui.
   </tr>
 	<tr>
     <td>Brus</td>
-    <td><img width="28" height="28" src="svg/light/icons10-brus.svg#gh-dark-mode-only">
-      <img width="28" height="28" src="svg/dark/icons10-brus.svg#gh-light-mode-only"></td>
-    <td><code>icons10-brus</code></td>
+    <td><img width="28" height="28" src="svg/light/icons10-brush.svg#gh-dark-mode-only">
+      <img width="28" height="28" src="svg/dark/icons10-brush.svg#gh-light-mode-only"></td>
+    <td><code>icons10-brush</code></td>
   </tr>
 	<tr>
     <td>Calendar</td>
@@ -316,7 +316,7 @@ SVG icon library for windows-ui.
   </tr>
   <tr>
     <td>icons10-clock</td>
-    <td><img width="28" height="28" src="svg/light/icons10-clockg.svg#gh-dark-mode-only">
+    <td><img width="28" height="28" src="svg/light/icons10-clock.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-clock.svg#gh-light-mode-only"></td>
     <td><code>icons10-clock</code></td>
   </tr>
@@ -351,10 +351,10 @@ SVG icon library for windows-ui.
     <td><code>icons10-compose</code></td>
   </tr>
   <tr>
-    <td>icons10-compose</td>
-    <td><img width="28" height="28" src="svg/light/icons10-compose.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-compose.svg#gh-light-mode-only"></td>
-    <td><code>icons10-compose</code></td>
+    <td>icons10-controller</td>
+    <td><img width="28" height="28" src="svg/light/icons10-controller.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-controller.svg#gh-light-mode-only"></td>
+    <td><code>icons10-controller</code></td>
   </tr>
   <tr>
     <td>icons10-contact-book</td>

@@ -81,8 +81,8 @@ SVG icon library for windows-ui.
   <tr>
     <td><img width="28" height="28" src="svg/light/icons10-briefcase.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-briefcase.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-brus.svg#gh-dark-mode-only">
-    <img width="28" height="28" src="svg/dark/icons10-brus.svg#gh-light-mode-only"></td>
+    <td><img width="28" height="28" src="svg/light/icons10-brush.svg#gh-dark-mode-only">
+    <img width="28" height="28" src="svg/dark/icons10-brush.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-calendar.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-calendar.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-calculator.svg#gh-dark-mode-only">
@@ -117,7 +117,7 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-clipboard.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-clip.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-clip.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-clockg.svg#gh-dark-mode-only">
+    <td><img width="28" height="28" src="svg/light/icons10-clock.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-clock.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-code-file.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-code-file.svg#gh-light-mode-only"></td>
@@ -131,6 +131,8 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-compress.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-compose.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-compose.svg#gh-light-mode-only"></td>
+    <td><img width="28" height="28" src="svg/light/icons10-controller.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-controller.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-contact-book.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-contact-book.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-copy.svg#gh-dark-mode-only">
@@ -141,10 +143,10 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-crop.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-database.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-database.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-desktop.svg#gh-dark-mode-only">
-    <img width="28" height="28" src="svg/dark/icons10-desktop.svg#gh-light-mode-only"></td>
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-desktop.svg#gh-dark-mode-only">
+    <img width="28" height="28" src="svg/dark/icons10-desktop.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-deathly-hallows.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-deathly-hallows.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-dining-room.svg#gh-dark-mode-only">
@@ -163,10 +165,11 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-electricity.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-eraser.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-eraser.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-emoji-smile.svg#gh-dark-mode-only">
-    <img width="28" height="28" src="svg/dark/icons10-emoji-smile.svg#gh-light-mode-only"></td>
+    
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-emoji-smile.svg#gh-dark-mode-only">
+    <img width="28" height="28" src="svg/dark/icons10-emoji-smile.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-eye.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-eye.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-eye-closed.svg#gh-dark-mode-only">
@@ -185,10 +188,11 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-file.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-file-explorer.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-file-explorer.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-film.svg#gh-dark-mode-only">
-    <img width="28" height="28" src="svg/dark/icons10-film.svg#gh-light-mode-only"></td>
+    
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-film.svg#gh-dark-mode-only">
+    <img width="28" height="28" src="svg/dark/icons10-film.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-filter.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-filter.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-finish-flag.svg#gh-dark-mode-only">
@@ -207,10 +211,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-generic-sorting-2.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-gift.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-gift.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-grid.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-grid.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-grid.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-grid.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-grid-2.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-grid-2.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-grid-3.svg#gh-dark-mode-only">
@@ -229,10 +234,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-home.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-history.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-history.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-idea.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-idea.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-idea.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-idea.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-idea-close.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-idea-close.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-image-file.svg#gh-dark-mode-only">
@@ -251,10 +257,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-iphone.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-key.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-key.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-keyboard.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-keyboard.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-keyboard.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-keyboard.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-left-squared.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-left-squared.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-level-down.svg#gh-dark-mode-only">
@@ -273,10 +280,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-lock.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-lock-open.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-lock-open.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-location.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-location.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-location.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-location.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-location-point.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-location-point.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-mastercard.svg#gh-dark-mode-only">
@@ -295,10 +303,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-mic-disabled.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-monitor.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-monitor.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-more.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-more.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-more.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-more.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-moon.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-moon.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-mouse.svg#gh-dark-mode-only">
@@ -317,10 +326,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-network-hotspot.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-network-connected.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-network-connected.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-network-disconnected.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-network-disconnected.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-network-disconnected.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-network-disconnected.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-network-tower.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-network-tower.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-news.svg#gh-dark-mode-only">
@@ -339,10 +349,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-numerical-sorting-2.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-opened-folder.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-opened-folder.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-organization.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-organization.svg#gh-light-mode-only"></td>
+     
   </tr>
   <tr>
+   <td><img width="28" height="28" src="svg/light/icons10-organization.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-organization.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-outdent.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-outdent.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-parallel-tasks.svg#gh-dark-mode-only">
@@ -361,10 +372,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-phone-dial.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-phone-dialpad.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-phone-dialpad.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-picture.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-picture.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-picture.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-picture.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-pie-chart.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-pie-chart.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-pin.svg#gh-dark-mode-only">
@@ -383,10 +395,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-puzzle.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-qr-code.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-qr-code.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-question-mark.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-question-mark.svg#gh-light-mode-only"></td>
+     
   </tr>
   <tr>
+   <td><img width="28" height="28" src="svg/light/icons10-question-mark.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-question-mark.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-recycling.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-recycling.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-refresh.svg#gh-dark-mode-only">
@@ -405,10 +418,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-right-squared.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-rotate-left.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-rotate-left.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-rotate-right.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-rotate-right.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-rotate-right.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-rotate-right.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-rupee.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-rupee.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-save.svg#gh-dark-mode-only">
@@ -427,10 +441,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-security-user.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-security-issue.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-security-issue.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-services.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-services.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-services.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-services.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-settings.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-settings.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-share.svg#gh-dark-mode-only">
@@ -449,10 +464,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-speaker-0.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-speaker-1.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-speaker-1.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-speaker-2.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-speaker-2.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-speaker-2.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-speaker-2.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-speaker-3.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-speaker-3.svg#gh-light-mode-only"></td>
 <td><img width="28" height="28" src="svg/light/icons10-star.svg#gh-dark-mode-only">
@@ -471,10 +487,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-tasks.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-text-width.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-text-width.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-timeline.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-timeline.svg#gh-light-mode-only"></td>
+     
   </tr>
   <tr>
+   <td><img width="28" height="28" src="svg/light/icons10-timeline.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-timeline.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-terminal.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-terminal.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-todo-list.svg#gh-dark-mode-only">
@@ -493,10 +510,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-undo.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-up-squared.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-up-squared.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-upload.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-upload.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-upload.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-upload.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-upload-2.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-upload-2.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-us-dollar.svg#gh-dark-mode-only">
@@ -515,10 +533,11 @@ SVG icon library for windows-ui.
 	    <img width="28" height="28" src="svg/dark/icons10-user-girl.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-user-boy.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-user-boy.svg#gh-light-mode-only"></td>
-      <td><img width="28" height="28" src="svg/light/icons10-user-group.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/dark/icons10-user-group.svg#gh-light-mode-only"></td>
+      
   </tr>
   <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-user-group.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-group.svg#gh-light-mode-only"></td>
   <td><img width="28" height="28" src="svg/light/icons10-user-settings.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-user-settings.svg#gh-light-mode-only"></td>
       <td><img width="28" height="28" src="svg/light/icons10-user-switch.svg#gh-dark-mode-only">
