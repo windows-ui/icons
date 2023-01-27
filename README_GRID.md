@@ -320,4 +320,220 @@ SVG icon library for windows-ui.
       <td><img width="28" height="28" src="svg/light/icons10-network-disconnected.svg#gh-dark-mode-only">
 	    <img width="28" height="28" src="svg/dark/icons10-network-disconnected.svg#gh-light-mode-only"></td>
   </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-network-tower.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-network-tower.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-news.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-news.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-notebook.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-notebook.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-notification.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-notification.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-notification-image.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-notification-image.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-numbered-list.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-numbered-list.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-numerical-sorting.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-numerical-sorting.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-numerical-sorting-2.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-numerical-sorting-2.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-opened-folder.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-opened-folder.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-organization.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-organization.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-outdent.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-outdent.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-parallel-tasks.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-parallel-tasks.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-paste.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-paste.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-pencil.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-pencil.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-personalize.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-personalize.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-phone.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-phone.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-phone-book.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-phone-book.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-phone-dial.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-phone-dial.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-phone-dialpad.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-phone-dialpad.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-picture.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-picture.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-pie-chart.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-pie-chart.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-pin.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-pin.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-plus.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-plus.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-price-tag.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-price-tag.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-printer.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-printer.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-printer-cloud.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-printer-cloud.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-projector.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-projector.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-puzzle.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-puzzle.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-qr-code.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-qr-code.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-question-mark.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-question-mark.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-recycling.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-recycling.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-refresh.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-refresh.svg#gh-light-mode-only"></td>
+       <td><img width="28" height="28" src="svg/light/icons10-resize-diagonal.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-resize-diagonal.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-resize-four-directions.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-resize-four-directions.svg#gh-light-mode-only"></td>
+       <td><img width="28" height="28" src="svg/light/icons10-resize-horizontal.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-resize-horizontal.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-resize-vertical.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-resize-vertical.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-responsive.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-responsive.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-right-squared.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-right-squared.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-rotate-left.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-rotate-left.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-rotate-right.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-rotate-right.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-rupee.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-rupee.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-save.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-save.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-scan.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-scan.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-scanner.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-scanner.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-scale.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-scale.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-sdcard.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-sdcard.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-search.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-search.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-security-user.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-security-user.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-security-issue.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-security-issue.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-services.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-services.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-settings.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-settings.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-share.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-share.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-shutdown.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-shutdown.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-sign-male.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-sign-male.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-sign-female.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-sign-female.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-sort.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-sort.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-spy.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-spy.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-speaker-0.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-speaker-0.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-speaker-1.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-speaker-1.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-speaker-2.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-speaker-2.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-speaker-3.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-speaker-3.svg#gh-light-mode-only"></td>
+<td><img width="28" height="28" src="svg/light/icons10-star.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-star.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-student.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-student.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-stopwatch.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-stopwatch.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-support.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-support.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-sun.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-sun.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-tags.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-tags.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-tasks.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-tasks.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-text-width.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-text-width.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-timeline.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-timeline.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+    <td><img width="28" height="28" src="svg/light/icons10-terminal.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-terminal.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-todo-list.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-todo-list.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-touch.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-touch.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-thermomete.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/darkicons10-thermomete.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-translation.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-translation.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-trash.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-trash.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-trophy.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-trophy.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-undo.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-undo.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-up-squared.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-up-squared.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-upload.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-upload.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+    <td><img width="28" height="28" src="svg/light/icons10-upload-2.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-upload-2.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-us-dollar.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-us-dollar.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-usb.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-usb.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-female.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-female.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-add.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-add.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-remove.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-remove.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-girl.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-girl.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-boy.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-boy.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-group.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-group.svg#gh-light-mode-only"></td>
+  </tr>
+  <tr>
+  <td><img width="28" height="28" src="svg/light/icons10-user-settings.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-settings.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-user-switch.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-user-switch.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-video-call.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-video-call.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-video-file.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-video-file.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-web-cam.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-web-cam.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-window.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-window.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-windows.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-windows.svg#gh-light-mode-only"></td>
+      <td><img width="28" height="28" src="svg/light/icons10-wifi.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/dark/icons10-wifi.svg#gh-light-mode-only"></td>
+  </tr>
 </table>
