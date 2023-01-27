@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 176 16 6
+WinInfo: 192 16 6
 BeginChars: 1317 144
 
 StartChar: uniF107
@@ -5490,7 +5490,7 @@ EndChar
 
 StartChar: uniE011
 Encoding: 257 57361 119
-AltUni2: 00e015.ffffffff.0 00e019.ffffffff.0 00e099.ffffffff.0 00e09d.ffffffff.0 00e0a1.ffffffff.0 00e0e5.ffffffff.0 00e70d.ffffffff.0
+AltUni2: 00e70d.ffffffff.0 00e0e5.ffffffff.0 00e0a1.ffffffff.0 00e09d.ffffffff.0 00e099.ffffffff.0 00e019.ffffffff.0 00e015.ffffffff.0
 Width: 512
 Flags: HW
 LayerCount: 2
