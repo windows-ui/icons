@@ -2,10 +2,10 @@
 SVG icon library for windows-ui.
 
 <a href="https://github.com/windows-ui/icons/tree/main/dist/">
-	<img src="https://img.shields.io/github/size/windows-ui/icons/dist/winui-icons.min.css?style=flat&color=EF2D5E&logo=MaterialDesignIcons&logoColor=ffffff&label=winui-icons.min.css" alt="react-windows-ui-11.min.css" />
+	<img src="https://img.shields.io/github/size/windows-ui/icons/dist/winui-icons.min.css?style=flat&color=EF2D5E&logo=MaterialDesignIcons&logoColor=ffffff&label=winui-icons.min.css" alt="winui-icons.min.css" />
 
-<a href="https://github.com/virtualvivek/react-windows-ui/tree/main/src/lib/dist">
-	<img src="https://img.shields.io/github/size/windows-ui/icons/dist/winui-icons.slim.css?style=flat&color=00A98F&logo=FontAwesome&logoColor=ffffff&label=winui-icons.slim.css" alt="react-windows-ui-11.min.css" />
+<a href="https://github.com/windows-ui/icons/tree/main/dist/">
+	<img src="https://img.shields.io/github/size/windows-ui/icons/dist/winui-icons.slim.css?style=flat&color=00A98F&logo=FontAwesome&logoColor=ffffff&label=winui-icons.slim.css" alt="winui-icons.slim.css" />
 </a>
 <br/><br/>
 
