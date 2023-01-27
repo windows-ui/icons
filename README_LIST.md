@@ -1,7 +1,6 @@
 # icons
 SVG icon library for windows-ui.
 
-
 <table>
   <tr>
     <th>
@@ -17,7 +16,6 @@ SVG icon library for windows-ui.
     <th><a href="./h.html">VIEW GRID LAYOUT</a><br>=</th>
   </tr>
 </table>
-
 
 <table>
   <tr>
