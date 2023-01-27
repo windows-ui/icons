@@ -1,19 +1,28 @@
 # icons
 SVG icon library for windows-ui.
 
+<a href="https://github.com/windows-ui/icons/tree/main/dist/">
+	<img src="https://img.shields.io/github/size/windows-ui/icons/dist/winui-icons.min.css?style=flat&color=EF2D5E&logo=MaterialDesignIcons&logoColor=ffffff&label=winui-icons.min.css" alt="react-windows-ui-11.min.css" />
+
+<a href="https://github.com/virtualvivek/react-windows-ui/tree/main/src/lib/dist">
+	<img src="https://img.shields.io/github/size/windows-ui/icons/dist/winui-icons.slim.css?style=flat&color=00A98F&logo=FontAwesome&logoColor=ffffff&label=winui-icons.slim.css" alt="react-windows-ui-11.min.css" />
+</a>
+<br/><br/>
+
 <table>
   <tr>
-    <th>
-    	<img width="40" height="40" src="svg/light/icons10-list.svg#gh-dark-mode-only">
-    	<img width="40" height="40" src="svg/dark/icons10-list.svg#gh-light-mode-only"></th>
-    <th>
+		<th>
 			<img width="40" height="40" src="svg/light/icons10-grid-2.svg#gh-dark-mode-only">
 			<img width="40" height="40" src="svg/dark/icons10-grid-2.svg#gh-light-mode-only">
 		</th>
+    <th>
+    	<img width="40" height="40" src="svg/light/icons10-list.svg#gh-dark-mode-only">
+    	<img width="40" height="40" src="svg/dark/icons10-list.svg#gh-light-mode-only">
+		</th>
   </tr>
 	 <tr>
-    <th>VIEW LIST LAYOUT<br>▲</th>
-    <th><a href="./h.html">VIEW GRID LAYOUT</a><br>=</th>
+    <th>GRID LAYOUT<br>▲</th>
+    <th><a href="./README_LIST.md">LIST LAYOUT</a><br>=</th>
   </tr>
 </table>
 
