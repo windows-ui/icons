@@ -171,7 +171,7 @@ SVG icon library for windows-ui.
   </tr>
 	<tr>
     <td>Bed</td>
-    <td><img width="28" height="28" src="svg/light/icons10-bedsvg#gh-dark-mode-only">
+    <td><img width="28" height="28" src="svg/light/icons10-bed.svg#gh-dark-mode-only">
       <img width="28" height="28" src="svg/dark/icons10-bed.svg#gh-light-mode-only"></td>
     <td><code>icons10-bed</code></td>
   </tr>
@@ -1310,10 +1310,10 @@ SVG icon library for windows-ui.
     <td><code>icons10-touch</code></td>
   </tr>
   <tr>
-    <td>icons10-thermomete</td>
-    <td><img width="28" height="28" src="svg/light/icons10-thermomete.svg#gh-dark-mode-only">
-	    <img width="28" height="28" src="svg/darkicons10-thermomete.svg#gh-light-mode-only"></td>
-    <td><code>icons10-thermomete</code></td>
+    <td>icons10-thermometer</td>
+    <td><img width="28" height="28" src="svg/light/icons10-thermometer.svg#gh-dark-mode-only">
+	    <img width="28" height="28" src="svg/darkicons10-thermometer.svg#gh-light-mode-only"></td>
+    <td><code>icons10-thermometer</code></td>
   </tr>
   <tr>
     <td>icons10-translation</td>

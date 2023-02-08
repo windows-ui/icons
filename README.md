@@ -80,7 +80,7 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-bar-chart.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-barcode.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-barcode.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-bedsvg#gh-dark-mode-only">
+    <td><img width="28" height="28" src="svg/light/icons10-bed.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-bed.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-bell.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-bell.svg#gh-light-mode-only"></td>
@@ -498,8 +498,8 @@ SVG icon library for windows-ui.
     <img width="28" height="28" src="svg/dark/icons10-todo-list.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-touch.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-touch.svg#gh-light-mode-only"></td>
-    <td><img width="28" height="28" src="svg/light/icons10-thermomete.svg#gh-dark-mode-only">
-    <img width="28" height="28" src="svg/darkicons10-thermomete.svg#gh-light-mode-only"></td>
+    <td><img width="28" height="28" src="svg/light/icons10-thermometer.svg#gh-dark-mode-only">
+    <img width="28" height="28" src="svg/darkicons10-thermometer.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-translation.svg#gh-dark-mode-only">
     <img width="28" height="28" src="svg/dark/icons10-translation.svg#gh-light-mode-only"></td>
     <td><img width="28" height="28" src="svg/light/icons10-trash.svg#gh-dark-mode-only">
